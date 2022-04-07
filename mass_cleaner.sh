@@ -1,4 +1,4 @@
-#bin! /bash/
+#!/bin/bash
 
 check_dir () {
     # Recursivly check for Cargo.toml starting at the given directory.
